@@ -1,0 +1,6 @@
+502533b otro commit
+3d46962 Añade línea extra 2 en app
+41c13c9 Añade línea extra 1 en app
+8c46125 Commit 1: versión inicial
+0ba01d3 add deadline
+bb807e3 Initial commit
