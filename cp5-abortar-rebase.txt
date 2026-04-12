@@ -1,0 +1,5 @@
+### El comando git rebase --abort
+
+Lo usaria en el caso de tener un conflicto demasiado complejo y no poder llevar a cabo esa fusion y reordenacion de commits.
+Tambien se usa en el caso de arrepentimiento y no querer hacer un rebase por que nos hemos confundido y no queremos continuar con el rebase.
+O, finalmente, tambien, por error al aplicar el rebase en una rama equivocada.
